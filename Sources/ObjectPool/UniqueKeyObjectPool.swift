@@ -1,7 +1,3 @@
-//
-//  Created by vkurlovich on 15.02.24.
-//
-
 import Foundation
 
 public final class UniqueKeyObjectPool<Key: Hashable, Value: AnyObject> {

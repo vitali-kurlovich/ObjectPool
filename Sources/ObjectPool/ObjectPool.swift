@@ -1,6 +1,3 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
-
 public final class ObjectPool<Value: AnyObject> {
     private var storage: [Value] = []
 

@@ -1,7 +1,3 @@
-//
-//  Created by vkurlovich on 14.02.24.
-//
-
 import Foundation
 
 public final class KeyObjectPool<Key: Equatable, Value: AnyObject> {
